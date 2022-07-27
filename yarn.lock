@@ -1124,6 +1124,8 @@
   "version" "2.0.0"
 
 "@npmcli/config@^4.2.0":
+  "integrity" "sha512-imWNz5dNWb2u+y41jyxL2WB389tkhu3a01Rchn16O/ur6GrnKySgOqdNG3N/9Z+mqxdISMEGKXI/POCauzz0dA=="
+  "resolved" "https://registry.npmjs.org/@npmcli/config/-/config-4.2.0.tgz"
   "version" "4.2.0"
   dependencies:
     "@npmcli/map-workspaces" "^2.0.2"
@@ -6159,6 +6161,8 @@
     "semver" "^7.3.5"
 
 "npm-profile@^6.2.0":
+  "integrity" "sha512-wG7ZAsLvhqDc2b9COAuGUJgPRUfvCnQI8NEYeifSHZpSYXAgTsHu5812kkcwZeX/5WPd/ARX/MJRWTBFjlUxvg=="
+  "resolved" "https://registry.npmjs.org/npm-profile/-/npm-profile-6.2.0.tgz"
   "version" "6.2.0"
   dependencies:
     "npm-registry-fetch" "^13.0.1"
